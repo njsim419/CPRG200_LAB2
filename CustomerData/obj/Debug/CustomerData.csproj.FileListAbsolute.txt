@@ -1,0 +1,5 @@
+C:\Users\Nick\source\repos\CPRG200_Lab2_nick_sim\CustomerData\bin\Debug\ClassLibrary.dll
+C:\Users\Nick\source\repos\CPRG200_Lab2_nick_sim\CustomerData\bin\Debug\ClassLibrary.pdb
+C:\Users\Nick\source\repos\CPRG200_Lab2_nick_sim\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CPRG200_Lab2_nick_sim\CustomerData\obj\Debug\ClassLibrary.dll
+C:\Users\Nick\source\repos\CPRG200_Lab2_nick_sim\CustomerData\obj\Debug\ClassLibrary.pdb

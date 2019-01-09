@@ -1,0 +1,10 @@
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\bin\Debug\CPRG200_Lab1_nick_sim.exe.config
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\bin\Debug\CPRG200_Lab1_nick_sim.exe
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\bin\Debug\CPRG200_Lab1_nick_sim.pdb
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\obj\Debug\CPRG200_Lab1_nick_sim.csprojAssemblyReference.cache
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\obj\Debug\CPRG200_Lab1_nick_sim.Form1.resources
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\obj\Debug\CPRG200_Lab1_nick_sim.Properties.Resources.resources
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\obj\Debug\CPRG200_Lab1_nick_sim.csproj.GenerateResource.cache
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\obj\Debug\CPRG200_Lab1_nick_sim.csproj.CoreCompileInputs.cache
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\obj\Debug\CPRG200_Lab1_nick_sim.exe
+c:\users\nick\source\repos\CPRG200_Lab1_nick_sim\CPRG200_Lab1_nick_sim\obj\Debug\CPRG200_Lab1_nick_sim.pdb

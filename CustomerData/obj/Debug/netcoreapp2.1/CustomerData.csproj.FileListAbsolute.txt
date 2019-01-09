@@ -1,0 +1,9 @@
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\bin\Debug\netcoreapp2.1\CustomerData.deps.json
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\bin\Debug\netcoreapp2.1\CustomerData.dll
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\bin\Debug\netcoreapp2.1\CustomerData.pdb
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\obj\Debug\netcoreapp2.1\CustomerData.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\obj\Debug\netcoreapp2.1\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\obj\Debug\netcoreapp2.1\CustomerData.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\obj\Debug\netcoreapp2.1\CustomerData.AssemblyInfo.cs
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\obj\Debug\netcoreapp2.1\CustomerData.dll
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\CustomerData\obj\Debug\netcoreapp2.1\CustomerData.pdb

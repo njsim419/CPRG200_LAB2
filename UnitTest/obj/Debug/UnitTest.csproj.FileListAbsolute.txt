@@ -1,0 +1,3 @@
+C:\Users\Nick\source\repos\CPRG200_Lab1_nick_sim\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CPRG200_Lab2_nick_sim\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\CPRG200_Lab2_nick_sim\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
